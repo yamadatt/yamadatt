@@ -3,10 +3,10 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&count={10})
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&width={1000})
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&unique={true|1|on|yes})
 
