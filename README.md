@@ -7,6 +7,11 @@ profileがオシャレになることを期待してパーツを貼ってみた�
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [git resetした後、強引にpushする方法](https://zenn.dev/yamadatt/articles/git-reset-push)
+- [WordPressでnoindexされていたらこれが怪しい](https://zenn.dev/yamadatt/articles/wordpress-noindex)
+- [WordPressで検証する際に使うと便利なプラグインを中心に紹介する](https://zenn.dev/yamadatt/articles/wordpress-tools)
+- [macで作成される隠しファイルを消すコマンド](https://zenn.dev/yamadatt/articles/delete-mac-unvisible-file)
+- [CentOS7.4でpython3.8を使えるようにした](https://zenn.dev/yamadatt/articles/install-python38-centos74)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Profile Summary
