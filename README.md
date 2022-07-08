@@ -3,6 +3,13 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&count={count})
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&width={width})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&unique={true|1|on|yes})
+
 <!--
 **yamadatt/yamadatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
