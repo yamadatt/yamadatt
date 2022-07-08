@@ -1,14 +1,13 @@
-### Hi there 👋
+
+## Spotify Recently Played 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&count=7)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&count=10)
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&width=1000)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&unique={true|1|on|yes})
 
 <!--
 **yamadatt/yamadatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
