@@ -4,11 +4,6 @@ profileがオシャレになることを期待してパーツを貼ってみた�
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&count=7)
 
-## Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## GitHub Profile Summary
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamadatt&theme=default)
