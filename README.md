@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 profileがオシャレになることを期待してパーツを貼ってみた。
 
-## Spotify Recently Played 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yamadatt&count=7)
 
 =======
->>>>>>> 1f8c7754c13bb637cb76af87cbb8ec9c5416e780
+
 ## GitHub Profile Summary
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamadatt&theme=default)
