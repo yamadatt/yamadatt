@@ -1,8 +1,3 @@
-profileがオシャレになることを期待してパーツを貼ってみた。
-
-
-=======
-
 ## GitHub Profile Summary
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamadatt&theme=default)
